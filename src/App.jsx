@@ -40,7 +40,7 @@ function App() {
 
                     <div className="relative z-10">
                         <p className="font-mono text-fuchsia-400 text-sm md:text-base mb-6 tracking-wide">
-                            &lt;fatoum-codes /&gt;
+                            &lt;fatoum-codes/&gt;
                         </p>
 
                         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight leading-tight mb-6">
